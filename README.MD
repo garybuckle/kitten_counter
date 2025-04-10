@@ -1,2 +1,2 @@
-# Kitten Counter from https://kitten.small-web.org
-# Please support https://small-tech.org/about/#small-technology
+# Kitten Counter from [The Small Web Org](https://kitten.small-web.org)
+
